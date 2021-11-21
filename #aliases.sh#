@@ -1,0 +1,4 @@
+#!bin/bash
+alias mod='vim b10_simulation_script.tcl'
+alias lsim='. b10_simulation.sh'
+alias fsim='tmax b10_fsim_script.tcl -shell'
